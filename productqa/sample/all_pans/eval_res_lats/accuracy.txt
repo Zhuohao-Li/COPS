@@ -1,0 +1,10 @@
+Round 1: 0.046
+Round 2: 0.080
+Round 3: 0.114
+Round 4: 0.154
+Round 5: 0.184
+Round 6: 0.216
+Round 7: 0.242
+Round 8: 0.256
+Round 9: 0.282
+Round 10: 0.308

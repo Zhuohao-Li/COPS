@@ -1,0 +1,6 @@
+analyze the following question and answer, and explain why the answer might be incorrect:
+
+question: Is the Norpro 273 Pan Set appropriately sized for preparing meals for a large family?
+answer: no
+
+please explain the reasons in one word: 

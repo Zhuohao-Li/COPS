@@ -1,0 +1,31 @@
+{
+  "correct_ids": [
+    "fact_qa_0",
+    "fact_qa_7",
+    "reasoning_qa_2",
+    "fact_qa_8",
+    "reasoning_qa_4",
+    "fact_qa_12",
+    "reasoning_qa_5",
+    "fact_qa_19",
+    "fact_qa_20",
+    "reasoning_qa_8",
+    "fact_qa_21",
+    "fact_qa_23",
+    "fact_qa_24",
+    "fact_qa_31",
+    "fact_qa_38",
+    "reasoning_qa_14",
+    "fact_qa_44",
+    "fact_qa_45",
+    "reasoning_qa_15",
+    "fact_qa_50",
+    "fact_qa_56"
+  ],
+  "metrics": {
+    "search_qa": 0.0,
+    "fact_qa": 0.25862068965517243,
+    "reasoning_qa": 0.375
+  },
+  "total_accuracy": 0.21
+}
