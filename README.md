@@ -1,6 +1,6 @@
 # CoPS: Empowering LLM Agents with Provable Cross-Task Experience Sharing
 
-This repo holds the code for [CoPS: Empowering LLM Agents with Provable Cross-Task Experience Sharing](https://arxiv.org/abs/2410.16670) by Chen Yang, Chenyang Zhao, Quanquan Gu and Dongruo Zhou.  
+This repo holds the code for CoPS: Empowering LLM Agents with Provable Cross-Task Experience Sharing.  
 
 ![CoPS](./figures/illusion.png)
 
@@ -88,20 +88,3 @@ print(embedding[:10])
 
 </details>
 
-## Other Notes
-
-For all questions, contact [cya2@iu.edu](cya2@iu.edu)
-
-## Cite
-
-```bibtex
-@misc{yang2024copsempoweringllmagents,
-      title={CoPS: Empowering LLM Agents with Provable Cross-Task Experience Sharing}, 
-      author={Chen Yang and Chenyang Zhao and Quanquan Gu and Dongruo Zhou},
-      year={2024},
-      eprint={2410.16670},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2410.16670}, 
-}
-```
